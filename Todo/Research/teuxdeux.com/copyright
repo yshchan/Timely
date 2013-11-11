@@ -1,0 +1,174 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset='UTF-8'>
+    <meta content='app-id=384291782' name='apple-itunes-app'>
+    <meta content='width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no' name='viewport'>
+    <title>
+      TeuxDeux / DMCA Copyright Policy
+    </title>
+    <link rel='stylesheet' href='/css/site.css?1382399515' type='text/css'>
+    <meta content='IE=edge,chrome=1' http-equiv='X-UA-Compatible'>
+    <link href='/img/favicon.png?1382399515' rel='icon' type='image/png'>
+    <link href='/img/favicon.png?1382399515' rel='shortcut icon' type='image/png'>
+    <script charset='UTF-8' src='//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js' type='text/javascript'></script>
+    <script type='text/javascript'>
+      window.jQuery || document.write('<script src="/js/libs/jquery-1.9.1.min.js?1382399515" charset="UTF-8" type="text/javascript">');
+      (function() {
+      var config = {
+      kitId: 'yvf7unn',
+      scriptTimeout: 3000
+      };
+      var h=document.getElementsByTagName("html")[0];h.className+=" wf-loading";var t=setTimeout(function(){h.className=h.className.replace(/(\s|^)wf-loading(\s|$)/g," ");h.className+=" wf-inactive"},config.scriptTimeout);var tk=document.createElement("script"),d=false;tk.src='//use.typekit.net/'+config.kitId+'.js';tk.type="text/javascript";tk.async="true";tk.onload=tk.onreadystatechange=function(){var a=this.readyState;if(d||a&&a!="complete"&&a!="loaded")return;d=true;clearTimeout(t);try{Typekit.load(config)}catch(b){}};var s=document.getElementsByTagName("script")[0];s.parentNode.insertBefore(tk,s)
+      })();
+    </script>
+    <script src='/js/libs/modernizr.min.js?1382399515' type='text/javascript' charset='UTF-8'></script>
+    <script src='/js/libs/fastclick.min.js?1382399515' type='text/javascript' charset='UTF-8'></script>
+    <script type='text/javascript'>
+      if ('addEventListener' in window) {
+      window.addEventListener('load', function() { new FastClick(document.body); }, false);
+      }
+    </script>
+    <script>
+      //<![CDATA[
+        window.addEventListener('load', function() {
+          var a = document.getElementsByTagName("a");
+          for (var i = 0; i < a.length; i++)
+          {
+              a[i].onclick = function()
+              {
+                var href = this.getAttribute("href");
+                if (href && !href.match(/^http/))
+                {
+                  window.location = href;
+                  return false
+                }
+              }
+          }
+        }, false);
+      //]]>
+    </script>
+  </head>
+  <body class='site page' id='copyright'>
+    <header class='grid-container'>
+      <h1 class='logo webfont'>
+        <a href='/'>
+          <span class='teux'>Teux<span class="deux">Deux</span> <span class="tagline">a simple, designy to-do app</span></span>
+        </a>
+      </h1>
+      <nav class='top-level-nav'>
+        <ul>
+          <li class='home-button secondary-button'>
+            <a href='/'>Home</a>
+          </li>
+          <li class='home-button secondary-button'>
+            <a href='/story'>Story</a>
+          </li>
+          <li class='support-button'>
+            <a href='/support'>Support</a>
+          </li>
+          <li class='blog-button secondary-button'>
+            <a href='http://blog.teuxdeux.com'>Blog</a>
+          </li>
+          <li>
+            <a href='/login'>Log in</a>
+          </li>
+          <li>
+            <a class='signup-button' href='/signup'>
+              <strong>Sign up</strong>
+            </a>
+          </li>
+        </ul>
+      </nav>
+    </header>
+    <div class='grid-container'>
+      <h2 class='page-title webfont'>DMCA Copyright Policy</h2>
+      <div class='page-content'>
+        <p>TeuxDeux LLC (collectively “TeuxDeux”) has adopted the following general policy toward copyright infringement in accordance with the <a href='http://lcweb.loc.gov/copyright/legislation/dmca.pdf'>Digital Millennium Copyright Act</a> with respect to the TeuxDeux mobile application and website http://www.teuxdeux.com (collectively, “TeuxDeux”). The address of TeuxDeux’s Desig- nated Agent to Receive Notification of Claimed Infringement (“Designated Agent”) is listed at the end of this policy.</p>
+        
+        <p>With regard to content hosted on TeuxDeux, it is TeuxDeux’s policy to (1) block access to or remove ma- terial that it believes in good faith to be copyrighted material that has been illegally copied and distributed by any of our advertisers, affiliates, content providers, members or users; and (2) remove and discontinue service to repeat offenders.</p>
+        
+        <h3 id='a_procedure_for_reporting_copyright_infringement'>A. Procedure for Reporting Copyright Infringement:</h3>
+        
+        <p>If you believe that material or content residing on or accessible through TeuxDeux infringes a copyright, please send a notice of copyright infringement containing the following information to the Designated Agent listed below:</p>
+        
+        <ol>
+        <li>A physical or electronic signature of a person authorized to act on behalf of the owner of the copy- right that has been allegedly infringed;</li>
+        
+        <li>Identification of works or materials being infringed;</li>
+        
+        <li>Identification of the material that is claimed to be infringing including information regarding the loca- tion of the infringing materials that the copyright owner seeks to have removed, with sufficient detail so that TeuxDeux is capable of finding and verifying its existence;</li>
+        
+        <li>Contact information about the notifier including address, telephone number and, if available, e-mail address;</li>
+        
+        <li>A statement that the notifier has a good faith belief that the material is not authorized by the copyright owner, its agent, or the law; and</li>
+        
+        <li>A statement made under penalty of perjury that the information provided is accurate and the notifying party is authorized to make the complaint on behalf of the copyright owner.</li>
+        </ol>
+        
+        <h3 id='b_once_proper_bona_fide_infringement_notification_is_received_by_the_designated_agent'>B. Once Proper Bona Fide Infringement Notification is Received by the Designated Agent:</h3>
+        
+        <p>It is TeuxDeux’s policy:</p>
+        
+        <ol>
+        <li>to remove or disable access to the infringing material;</li>
+        
+        <li>to notify the content provider, member or user that it has removed or disabled access to the material; and</li>
+        
+        <li>that repeat offenders will have the infringing material removed from the system and that TeuxDeux will terminate such content provider’s, member’s or user’s access to the service.</li>
+        </ol>
+        
+        <p>Please contact TeuxDeux’s Designated Agent to Receive Notification of Claimed Infringement at <a href='mailto:dmca@teuxdeux.com'>dmca@teuxdeux.com</a> or at:</p>
+        
+        <p>Copyright Manager, TeuxDeux<br />10 Jay St, Suite 612A<br />Brooklyn, NY 11201</p>
+      </div>
+    </div>
+    <footer>
+      <div class='grid-container'>
+        <ul class='footer-page-list'>
+          <li>
+            <a href='/support' tabIndex='-1'>Support</a>
+          </li>
+          <li class='secondary-button'>
+            <a href='/purpose'>Purpose</a>
+          </li>
+          <li>
+            <a href='/privacy' tabIndex='-1'>Privacy&nbsp;Policy</a>
+          </li>
+          <li>
+            <a href='/copyright' tabIndex='-1'>Copyright</a>
+          </li>
+          <li>
+            <a href='/terms' tabIndex='-1'>Terms of Use</a>
+          </li>
+        </ul>
+        <ul class='footer-info-list'>
+          <li class='footer-made-with-love'>
+            <a href='http://nytm.org/made-in-nyc/' target='_blank'>
+              Made with
+              <span class='footer-love ss-heart'></span>
+              in Brooklyn
+            </a>
+          </li>
+          <li>
+            &copy; 2013 TeuxDeux LLC
+          </li>
+        </ul>
+      </div>
+    </footer>
+    <script>
+      //<![CDATA[
+        var _gaq = _gaq || [];
+        _gaq.push(['_setAccount', 'UA-36410948-1']);
+        _gaq.push(['_trackPageview']);
+        
+        (function() {
+          var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+          ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+          var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+        })();
+      //]]>
+    </script>
+    <script src='/webfonts/ssneuxteuxdeux.js?1382399515' type='text/javascript' charset='UTF-8'></script>
+  </body>
+</html>

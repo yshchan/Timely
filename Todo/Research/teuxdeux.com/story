@@ -1,0 +1,216 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset='UTF-8'>
+    <meta content='app-id=384291782' name='apple-itunes-app'>
+    <meta content='width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no' name='viewport'>
+    <title>
+      TeuxDeux / The Story of TeuxDeux
+    </title>
+    <link rel='stylesheet' href='/css/site.css?1382399515' type='text/css'>
+    <meta content='IE=edge,chrome=1' http-equiv='X-UA-Compatible'>
+    <link href='/img/favicon.png?1382399515' rel='icon' type='image/png'>
+    <link href='/img/favicon.png?1382399515' rel='shortcut icon' type='image/png'>
+    <script charset='UTF-8' src='//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js' type='text/javascript'></script>
+    <script type='text/javascript'>
+      window.jQuery || document.write('<script src="/js/libs/jquery-1.9.1.min.js?1382399515" charset="UTF-8" type="text/javascript">');
+      (function() {
+      var config = {
+      kitId: 'yvf7unn',
+      scriptTimeout: 3000
+      };
+      var h=document.getElementsByTagName("html")[0];h.className+=" wf-loading";var t=setTimeout(function(){h.className=h.className.replace(/(\s|^)wf-loading(\s|$)/g," ");h.className+=" wf-inactive"},config.scriptTimeout);var tk=document.createElement("script"),d=false;tk.src='//use.typekit.net/'+config.kitId+'.js';tk.type="text/javascript";tk.async="true";tk.onload=tk.onreadystatechange=function(){var a=this.readyState;if(d||a&&a!="complete"&&a!="loaded")return;d=true;clearTimeout(t);try{Typekit.load(config)}catch(b){}};var s=document.getElementsByTagName("script")[0];s.parentNode.insertBefore(tk,s)
+      })();
+    </script>
+    <script src='/js/libs/modernizr.min.js?1382399515' type='text/javascript' charset='UTF-8'></script>
+    <script src='/js/libs/fastclick.min.js?1382399515' type='text/javascript' charset='UTF-8'></script>
+    <script type='text/javascript'>
+      if ('addEventListener' in window) {
+      window.addEventListener('load', function() { new FastClick(document.body); }, false);
+      }
+    </script>
+    <script>
+      //<![CDATA[
+        window.addEventListener('load', function() {
+          var a = document.getElementsByTagName("a");
+          for (var i = 0; i < a.length; i++)
+          {
+              a[i].onclick = function()
+              {
+                var href = this.getAttribute("href");
+                if (href && !href.match(/^http/))
+                {
+                  window.location = href;
+                  return false
+                }
+              }
+          }
+        }, false);
+      //]]>
+    </script>
+  </head>
+  <body class='site page' id='story'>
+    <header class='grid-container'>
+      <h1 class='logo webfont'>
+        <a href='/'>
+          <span class='teux'>Teux<span class="deux">Deux</span> <span class="tagline">a simple, designy to-do app</span></span>
+        </a>
+      </h1>
+      <nav class='top-level-nav'>
+        <ul>
+          <li class='home-button secondary-button'>
+            <a href='/'>Home</a>
+          </li>
+          <li class='home-button secondary-button'>
+            <a href='/story'>Story</a>
+          </li>
+          <li class='support-button'>
+            <a href='/support'>Support</a>
+          </li>
+          <li class='blog-button secondary-button'>
+            <a href='http://blog.teuxdeux.com'>Blog</a>
+          </li>
+          <li>
+            <a href='/login'>Log in</a>
+          </li>
+          <li>
+            <a class='signup-button' href='/signup'>
+              <strong>Sign up</strong>
+            </a>
+          </li>
+        </ul>
+      </nav>
+    </header>
+    <div class='grid-container'>
+  <h2 class='page-title webfont'>The Story of TeuxDeux</h2>
+  <div class='narrow-page-content page-content'>
+    <ul class='story-list'>
+      <li>
+        <input checked='checked' class='story-radio-button' id='vanilla' name='story' type='radio' value='vanilla'>
+        <label class='story-label' for='vanilla'>Vanilla</label>
+      </li>
+      <li>
+        <input class='story-radio-button' id='fairytale' name='story' type='radio' value='fairytale'>
+        <label class='story-label' for='fairytale'>Fairytale</label>
+      </li>
+      <li>
+        <input class='story-radio-button' id='adult-contemporary' name='story' type='radio' value='adult-contemporary'>
+        <label class='story-label' for='adult-contemporary'>Adult Contemporary</label>
+      </li>
+    </ul>
+    <script>
+      //<![CDATA[
+        $(document).ready(function(){
+          $('.story-radio-button').click(function(e){
+            $('.story').css('display', 'none');
+            $('.story-' + $(e.currentTarget).val()).css('display', 'block');
+          });
+        });
+      //]]>
+    </script>
+    <div class='story-vanilla story'>
+      <p>TeuxDeux is a simple designy to-do app for the Web and iPhone. It started in 2009 as a lunch conversation amongst friends at <a href='http://studiomates.com'>Studiomates</a> in Brooklyn, NY. The prototype was designed by <a href='http://swiss-miss.com'>Swiss Miss</a> and built by <a href='http://fictivekin.com'>Fictive Kin</a> within three days of said conversation. Shortly after that, it went private beta for friends and shortly after that public to the world. From <a href='http://www.swiss-miss.com/2009/12/teuxdeux.html'>a single blog post</a>, with no other marketing, TeuxDeux has grown to hundreds of thousands of happy users. In March of 2013, TeuxDeux relaunched, with <a href='http://destroytoday.com'>Destroy Today</a> leading the overhaul, as a paid service with an eye towards sustainability. We’re very excited about what’s coming next.</p>
+    </div>
+    <div class='story-fairytale story'>
+      <p>Once upon a time in a land called <a href='http://studiomates.com'>Studiomates</a>, on a day not unlike today, there took place a fateful conversation during the happiest time of day known as “lunch.” It was the year of our Nutella, Two Thousand and Nine. A jovial year. On one side of this conversation was a woman, both Swiss and Miss, named <a href='http://swiss-miss.com'>Tina Roth Eisenberg</a>. On that day, she had been suffering the slings and arrows of outrageous to-do apps and she offered up lamentations to her compatriots known only as <a href='http://fictivekin.com'>Cameron Koczon</a> and <a href='http://fictivekin.com'>Sir Evan Haas</a>.</p>
+      
+      <blockquote>
+      <p>“I declare shenanigans on to-do apps,” she lamented.</p>
+      </blockquote>
+      
+      <p>“In fact, I’d go as far as declaring double shenanigans.”</p>
+      
+      <p>Cameron and Sir Evan, having been brought up in respectable homes, were not used to such vulgarity nor were they even aware that shenanigans could be doubled. They listened as Tina extolled the virtues of a theoretical to-do list that was as simple as paper. In this world, one could simply cross things off with a mouse as though it were a pen, striking down to-do after to-do. They stared slack-jawed (though admittedly still handsome, this being before Sir Evan’s &#8220;Great Misfortune&#8221;) and stunned by her glorious vision. It was clear. Something had to be done.</p>
+      
+      <p>“LADY TINA!” shouted Cameron (unnecessarily, considering that she was sitting very close by).</p>
+      
+      <p>“We must act! Time is of the essence. Every day that passes without the sweet embrace of this Internet application is a day cast in darkness. If you design it, Sir Evan and I shall build it.”</p>
+      
+      <p>“Also, it should have a silly name.”</p>
+      
+      <p>Moments later, Tina went to work with tremendous speed and clarity of vision. Smoke billowed from her keyboard and mouse. Her trusty companion, Photoshop, choked and crashed with an inspired frequency. A few hours later, the vision had tangible shape and the next day it had a name: TeuxDeux.</p>
+      
+      <p>In the meantime, Sir Evan and Cameron took to a sky chariot and returned to their then home, a place of hills and hobos known as San Francisco. Inspired by Lady Tina’s design, they built a functional version of TeuxDeux in a single weekend.</p>
+      
+      <p>There was much and/or some rejoicing.</p>
+      
+      <p>Soon, virtually every citizen of Studiomates was using TeuxDeux. It began to dawn on our heroes that it might be worthwhile to bring their invention to other distant lands. Places with fanciful names such as “Minnesota” and “England” and “Timbuktu” and “Tulsa!”</p>
+      
+      <p>Though they knew they had built something for which they cared a great deal, our heroes had nary an idea how many others would find love in their app. Starting with <a href='http://www.swiss-miss.com/2009/12/teuxdeux.html'>a simple blog post</a> and spreading from there, TeuxDeux found hundreds of thousands of admirers, all of whom were described by their friends as warm, attractive, considerate, and wise people.</p>
+      
+      <p>Fast forward, if you will, to early 2012. Our heroes had received a great deal of love from TeuxDeux and it was time to return some of that love back to the gentle app. There was, and always is, a catch. They could not do it alone. They turned to <a href='http://destroytoday.com'>Sir Jonniethan Hallman</a>, a fellow citizen of Studiomates and a man with a kindly face, a stout heart, and a sense of adventure. Sir Jonniethan was known for his UNO and <a href='http://cafejonnie.com'>coffee prowess</a> as well as his usage of TeuxDeux from its earliest days. No one but he could undertake this quest. Together, our newly invigorated heroes rebuilt and relaunched TeuxDeux. Their aim was true and they were sure to include the numerous features its users had requested over the years along with a few surprises. Their eyes now on sustainability, they imagined a TeuxDeux that could last for decades&#8230;</p>
+      
+      <p>And this, my dear reader, is where the story leaves off. There is still much to tell and there is still much to unfold so we shall all have teux be patient. The story only gets better from here.</p>
+    </div>
+    <div class='story-adult-contemporary story'>
+      <p>It was 2009. It was lunch. And it was sunny. We were listening to a cocktail of Beyoncé, Gaga, &amp; assorted classic Soul jams. Around the table sat <a href='http://swiss-miss.com'>Tina Roth Eisenberg</a>, <a href='http://fictivekin.com'>Cameron Koczon</a>, and <a href='http://fictivekin.com'>Evan Haas</a>. On the table: Nutella, Jimi’s, and Appenzeller cheese. All in all a good day. But it was about to get better.</p>
+      
+      <p>Tina, spurned by yet another to do app in a long line of ill-fitting to do apps, had no choice but to express her exasperation. Why couldn’t there just be an ideal solution? Something that was calendar based and as simple as a piece of paper? Why was the internet losing to paper?</p>
+      
+      <p>Cameron and Evan listened attentitively-ish (hard to completely focus when Nutella is on the table) and it was clear something had to be done. They quickly resolved to a plan:</p>
+      
+      <blockquote>
+      <p>“Tina, you design it. Evan and I will build it!”</p>
+      </blockquote>
+      
+      <p>By then it was the end of the day and Tina headed home to her family and Evan and Cameron caught a flight back to San Francisco. By the time they had landed, Tina had designed her V1 and by the end of the weekend, the entire first version had been built. TeuxDeux was born.</p>
+      
+      <p>Within a few weeks, many of the other Studiomates had signed up for the private baby alpha version of the app and the gang was able to make consistent improvements. Finally, the team decided TeuxDeux was worth sharing with the rest of the world and they decided to open it up to public signups.</p>
+      
+      <p>The launch went better than any of them could’ve hoped and their hearts did that thing at the end of the Grinch movie when they received so much warm praise from friends and strangers alike. Like this one, from Fast Company, “TeuxDeux: The Web’s Most Beautfiul To-Do List.” Starting with <a href='http://www.swiss-miss.com/2009/12/teuxdeux.html'>a single post on Tina’s blog</a>, the product grew to hundreds of thousands of TeuxDeuxers in no time.</p>
+      
+      <p>Things were quiet for a while. Too quiet. Fast forward to early 2012. It was obvious that TeuxDeux needed some TLC and it was even more obvious that the right man for the job was <a href='http://destroytoday.com'>Jonnie Hallman</a>. So, the team decided to invest in the rebuilding of TeuxDeux. This time it would be built with stability and sustainability in mind. With a sort of deliberateness that the haste of its inception didn’t allow. And there would be repeating to dos. Sweet, sweet repeating to dos. As predicted, Jonnie delivered in a big way. He also officially joined the TeuxDeux team and there was much rejoicing.</p>
+      
+      <p>In March of 2013, TeuxDeux relaunched as a paid service and showed off its brand new bag. And that, my adult contemporary ladies and gentlemen, is where the story leaves off&#8230;for now. :)</p>
+    </div>
+  </div>
+</div>
+    <footer>
+      <div class='grid-container'>
+        <ul class='footer-page-list'>
+          <li>
+            <a href='/support' tabIndex='-1'>Support</a>
+          </li>
+          <li class='secondary-button'>
+            <a href='/purpose'>Purpose</a>
+          </li>
+          <li>
+            <a href='/privacy' tabIndex='-1'>Privacy&nbsp;Policy</a>
+          </li>
+          <li>
+            <a href='/copyright' tabIndex='-1'>Copyright</a>
+          </li>
+          <li>
+            <a href='/terms' tabIndex='-1'>Terms of Use</a>
+          </li>
+        </ul>
+        <ul class='footer-info-list'>
+          <li class='footer-made-with-love'>
+            <a href='http://nytm.org/made-in-nyc/' target='_blank'>
+              Made with
+              <span class='footer-love ss-heart'></span>
+              in Brooklyn
+            </a>
+          </li>
+          <li>
+            &copy; 2013 TeuxDeux LLC
+          </li>
+        </ul>
+      </div>
+    </footer>
+    <script>
+      //<![CDATA[
+        var _gaq = _gaq || [];
+        _gaq.push(['_setAccount', 'UA-36410948-1']);
+        _gaq.push(['_trackPageview']);
+        
+        (function() {
+          var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+          ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+          var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+        })();
+      //]]>
+    </script>
+    <script src='/webfonts/ssneuxteuxdeux.js?1382399515' type='text/javascript' charset='UTF-8'></script>
+  </body>
+</html>

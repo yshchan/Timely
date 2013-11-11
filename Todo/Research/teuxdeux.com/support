@@ -1,0 +1,605 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset='UTF-8'>
+    <meta content='app-id=384291782' name='apple-itunes-app'>
+    <meta content='width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no' name='viewport'>
+    <title>
+      TeuxDeux / Support
+    </title>
+    <link rel='stylesheet' href='/css/site.css?1382399515' type='text/css'>
+    <meta content='IE=edge,chrome=1' http-equiv='X-UA-Compatible'>
+    <link href='/img/favicon.png?1382399515' rel='icon' type='image/png'>
+    <link href='/img/favicon.png?1382399515' rel='shortcut icon' type='image/png'>
+    <script charset='UTF-8' src='//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js' type='text/javascript'></script>
+    <script type='text/javascript'>
+      window.jQuery || document.write('<script src="/js/libs/jquery-1.9.1.min.js?1382399515" charset="UTF-8" type="text/javascript">');
+      (function() {
+      var config = {
+      kitId: 'yvf7unn',
+      scriptTimeout: 3000
+      };
+      var h=document.getElementsByTagName("html")[0];h.className+=" wf-loading";var t=setTimeout(function(){h.className=h.className.replace(/(\s|^)wf-loading(\s|$)/g," ");h.className+=" wf-inactive"},config.scriptTimeout);var tk=document.createElement("script"),d=false;tk.src='//use.typekit.net/'+config.kitId+'.js';tk.type="text/javascript";tk.async="true";tk.onload=tk.onreadystatechange=function(){var a=this.readyState;if(d||a&&a!="complete"&&a!="loaded")return;d=true;clearTimeout(t);try{Typekit.load(config)}catch(b){}};var s=document.getElementsByTagName("script")[0];s.parentNode.insertBefore(tk,s)
+      })();
+    </script>
+    <script src='/js/libs/modernizr.min.js?1382399515' type='text/javascript' charset='UTF-8'></script>
+    <script src='/js/libs/fastclick.min.js?1382399515' type='text/javascript' charset='UTF-8'></script>
+    <script type='text/javascript'>
+      if ('addEventListener' in window) {
+      window.addEventListener('load', function() { new FastClick(document.body); }, false);
+      }
+    </script>
+    <script>
+      //<![CDATA[
+        window.addEventListener('load', function() {
+          var a = document.getElementsByTagName("a");
+          for (var i = 0; i < a.length; i++)
+          {
+              a[i].onclick = function()
+              {
+                var href = this.getAttribute("href");
+                if (href && !href.match(/^http/))
+                {
+                  window.location = href;
+                  return false
+                }
+              }
+          }
+        }, false);
+      //]]>
+    </script>
+  </head>
+  <body class='site page' id='support'>
+    <header class='grid-container'>
+      <h1 class='logo webfont'>
+        <a href='/'>
+          <span class='teux'>Teux<span class="deux">Deux</span> <span class="tagline">a simple, designy to-do app</span></span>
+        </a>
+      </h1>
+      <nav class='top-level-nav'>
+        <ul>
+          <li class='home-button secondary-button'>
+            <a href='/'>Home</a>
+          </li>
+          <li class='home-button secondary-button'>
+            <a href='/story'>Story</a>
+          </li>
+          <li class='support-button'>
+            <a href='/support'>Support</a>
+          </li>
+          <li class='blog-button secondary-button'>
+            <a href='http://blog.teuxdeux.com'>Blog</a>
+          </li>
+          <li>
+            <a href='/login'>Log in</a>
+          </li>
+          <li>
+            <a class='signup-button' href='/signup'>
+              <strong>Sign up</strong>
+            </a>
+          </li>
+        </ul>
+      </nav>
+    </header>
+    <div class='grid-container'>
+  <h2 class='page-title webfont'>Frequently Asked Questions</h2>
+  <ul class='faq-section-list'>
+    <li>
+      <a href='#faq-general-questions'>General Questions</a>
+    </li>
+    <li>
+      <a href='#faq-neux'>Neux TeuxDeux</a>
+    </li>
+    <li>
+      <a href='#faq-common-problems'>Common Problems</a>
+    </li>
+    <li>
+      <a href='#faq-feature-requests'>Feature Requests</a>
+    </li>
+    <li>
+      <a href='#faq-negative-nancy-time'>Negative Nancy Time</a>
+    </li>
+    <li>
+      <a href='#faq-iphone-app'>iPhone App</a>
+    </li>
+    <li>
+      <a href='#faq-browser-bummers'>Browser Bummers</a>
+    </li>
+    <li>
+      <a href='#faq-email-us'>Email Us</a>
+    </li>
+  </ul>
+  <section class='faq-question-section'>
+    <h3 class='page-subtitle' id='faq-general-questions'>General Questions</h3>
+    <ul class='faq-question-list'>
+      <li class='divider-bottom'>
+        <h4 class='faq-question'>
+          <p>How long did it take to compile this FAQ?</p>
+        </h4>
+        <div class='faq-answer'>
+          <p>A long time. Please read it.</p>
+        </div>
+      </li>
+      <li class='divider-bottom'>
+        <h4 class='faq-question'>
+          <p>I have a question that&#39;s not answered here. What email address should I use to contact you?</p>
+        </h4>
+        <div class='faq-answer'>
+          <p>Before you email us, please read this entire FAQ and give our demo videos a watch. If you ask a question that is already available here, you probably won&#39;t get a response. If your question really is one of the unanswered ones, email our lovely support person Jen at <a href="mailto:jen@teuxdeux.com">jen@teuxdeux.com</a>, and she will take care of you.</p>
+        </div>
+      </li>
+      <li class='divider-bottom'>
+        <h4 class='faq-question'>
+          <p>Is it true that TeuxDeux is the 16th greatest invention of all time?</p>
+        </h4>
+        <div class='faq-answer'>
+          <p>Yes.</p>
+        </div>
+      </li>
+      <li class='divider-bottom'>
+        <h4 class='faq-question'>
+          <p>What are the other 15 greatest inventions?</p>
+        </h4>
+        <div class='faq-answer'>
+          <p>We can&#39;t go into detail, but Nutella is 6th.</p>
+        </div>
+      </li>
+      <li class='divider-bottom'>
+        <h4 class='faq-question'>
+          <p>How much does TeuxDeux cost?</p>
+        </h4>
+        <div class='faq-answer'>
+          <p>The believer plan is just $2 a month, paid yearly. The skeptic plan is $3 a month, paid monthly. Be a believer.</p>
+        </div>
+      </li>
+      <li class='divider-bottom'>
+        <h4 class='faq-question'>
+          <p>Are you ever going to release an API for TeuxDeux?</p>
+        </h4>
+        <div class='faq-answer'>
+          <p>Yes, we have an API and are working on the documentation. We look forward to seeing what you&#39;ll make with it.</p>
+        </div>
+      </li>
+      <li class='divider-bottom'>
+        <h4 class='faq-question'>
+          <p>How do you keep your skin looking so young and vibrant?</p>
+        </h4>
+        <div class='faq-answer'>
+          <p>Family secret.</p>
+        </div>
+      </li>
+      <li class='divider-bottom'>
+        <h4 class='faq-question'>
+          <p>I don&#39;t like the name &quot;TeuxDeux&quot;. It isn&#39;t even French.</p>
+        </h4>
+        <div class='faq-answer'>
+          <p>You should probably take a nap and get some ice cream. See if your mood improves. The name is both ridiculous and awesome.</p>
+        </div>
+      </li>
+    </ul>
+  </section>
+  <section class='faq-question-section'>
+    <h3 class='page-subtitle' id='faq-neux'>Neux TeuxDeux</h3>
+    <ul class='faq-question-list'>
+      <li class='divider-bottom'>
+        <h4 class='faq-question'>
+          <p>What&#39;s so neux about it?</p>
+        </h4>
+        <div class='faq-answer'>
+          <p>A lot. It&#39;s faster. It&#39;s designed to be mobile-friendly. It has a bunch of new features like custom lists, recurring to-dos, and Markdown support. With your help, we hope it can be sustainable, too.</p>
+        </div>
+      </li>
+      <li class='divider-bottom'>
+        <h4 class='faq-question'>
+          <p>Wait, does that mean I have to pay to use it?</p>
+        </h4>
+        <div class='faq-answer'>
+          <p>Yes, but there&#39;s a free 30-day trial.</p>
+        </div>
+      </li>
+      <li class='divider-bottom'>
+        <h4 class='faq-question'>
+          <p>What if I decide I don&#39;t want to use it after the free trial? Are my to-dos lost forever?</p>
+        </h4>
+        <div class='faq-answer'>
+          <p>No, your to-dos are safe, and you can quickly and easily download your data at any time. In fact, we recommend doing this periodically.</p>
+        </div>
+      </li>
+      <li class='divider-bottom'>
+        <h4 class='faq-question'>
+          <p>My old to-dos are not syncing with the new version.</p>
+        </h4>
+        <div class='faq-answer'>
+          <p>We copy all of your to-dos from the old version to the new version when you log in for the first time. Lots of people have successfully done this, but if it seems like it didn&#39;t work for some reason, please email us, and we&#39;ll look into it.</p>
+        </div>
+      </li>
+      <li class='divider-bottom'>
+        <h4 class='faq-question'>
+          <p>My iPhone app doesn&#39;t sync with the new version.</p>
+        </h4>
+        <div class='faq-answer'>
+          <p>Are you using the old iPhone app?</p>
+        </div>
+      </li>
+      <li class='divider-bottom'>
+        <h4 class='faq-question'>
+          <p>Why, yes I am!</p>
+        </h4>
+        <div class='faq-answer'>
+          <p>Go to the App Store, click Updates, and update your TeuxDeux app.</p>
+        </div>
+      </li>
+      <li class='divider-bottom'>
+        <h4 class='faq-question'>
+          <p>This new iPhone app is amazing, but how can I add my to-dos?</p>
+        </h4>
+        <div class='faq-answer'>
+          <p>Flattery will get you everywhere. Gone is the input box for to-dos. Instead, just click where you want to enter a to-do and start typing. It&#39;s much more like writing on paper now.</p>
+        </div>
+      </li>
+      <li class='divider-bottom'>
+        <h4 class='faq-question'>
+          <p>I don&#39;t have an iPhone. How can I access my to-dos on the go?</p>
+        </h4>
+        <div class='faq-answer'>
+          <p>We&#39;ve made the new version mobile-friendly from the start. You should be able to open it in a browser on your phone, and you can even bookmark it and add the bookmark to your home screen.</p>
+        </div>
+      </li>
+    </ul>
+  </section>
+  <section class='faq-question-section'>
+    <h3 class='page-subtitle' id='faq-common-problems'>Common Problems</h3>
+    <ul class='faq-question-list'>
+      <li class='divider-bottom'>
+        <h4 class='faq-question' id='faq-login'>
+          <p>I can&#39;t login. Help!</p>
+        </h4>
+        <div class='faq-answer'>
+          <p>If you have trouble logging in, it could be a number of things:</p>
+
+<ul>
+<li>Double-check that you&#39;re using the correct login and password. Really? Yep---you&#39;d be surprised how many users mistakenly think they&#39;re using the right combo.</li>
+<li>Try using your email address as your username.</li>
+<li>Do you have any special characters or spaces in your username or password? We&#39;ve seen this prevent a few users from logging into the iPhone app. We&#39;ll be sure to fix the issue, but changing your username or password might be a good temporary fix.</li>
+</ul>
+        </div>
+      </li>
+      <li class='divider-bottom'>
+        <h4 class='faq-question'>
+          <p>The iPhone app says &#39;Cannot reach server&#39; when I try to sync.</p>
+        </h4>
+        <div class='faq-answer'>
+          <p>This could be a number of things.</p>
+
+<ul>
+<li>Most commonly, you&#39;re not connected to the internet.</li>
+<li>If this isn&#39;t the case, and you&#39;re an existing user who updated from the previous version, try re-installing the app.</li>
+<li>If this still doesn&#39;t fix it, you might be experiencing an issue we&#39;ve seen with users have a huge number of todos. Upon logging in for the first time, the iPhone app will pull down all of your data, to properly sync it in the future. And when this happens, it might be choking from the sheer volume of the data. We&#39;ll be sure to fix this asap. In the meantime, while we&#39;re fixing this, the web app will double as a mobile web app.</li>
+</ul>
+        </div>
+      </li>
+      <li class='divider-bottom'>
+        <h4 class='faq-question'>
+          <p>The iPhone app doesn&#39;t always sync.</p>
+        </h4>
+        <div class='faq-answer'>
+          <p>Syncing on the iPhone is done periodically—when you open the app, when you close it, when you close your phone, etc. We&#39;ll be sure to have it sync as soon as you add or edit anything, but in the meantime, if you want to be 100% sure it syncs, you can pull down on the list to manually sync.</p>
+        </div>
+      </li>
+    </ul>
+  </section>
+  <section class='faq-question-section'>
+    <h3 class='page-subtitle' id='faq-feature-requests'>Feature Requests</h3>
+    <ul class='faq-question-list'>
+      <li class='divider-bottom'>
+        <h4 class='faq-question'>
+          <p>Can I print a beautiful copy of my TeuxDeux list?</p>
+        </h4>
+        <div class='faq-answer'>
+          <p>Why yes, you can. We added a lovely print.css that makes it easy. Just print and we take care of the styles.</p>
+        </div>
+      </li>
+      <li class='divider-bottom'>
+        <h4 class='faq-question'>
+          <p>Can I edit my to-dos?</p>
+        </h4>
+        <div class='faq-answer'>
+          <p>You certainly can! Just double-click to edit. (If you accidentally single-click and mark a to-do as done, just single-click again to undo.)</p>
+        </div>
+      </li>
+      <li class='divider-bottom'>
+        <h4 class='faq-question'>
+          <p>I really need to create recurring to-dos.</p>
+        </h4>
+        <div class='faq-answer'>
+          <p>Well, you&#39;re in luck. Lots of people wanted this, so we added it. Just end any to-do with &quot;every day&quot;, &quot;every week&quot;, &quot;every two weeks&quot;, &quot;every month&quot;, or &quot;every year&quot;. We&#39;re going to spend some time thinking of the best way to implement it without injuring the overall interface. Also, not to nitpick, but that is more of a statement than a question.</p>
+        </div>
+      </li>
+      <li class='divider-bottom'>
+        <h4 class='faq-question'>
+          <p>Can you make it so that I can text a to-do into my TeuxDeux list?</p>
+        </h4>
+        <div class='faq-answer'>
+          <p>We like this idea. Gonna look into it.</p>
+        </div>
+      </li>
+      <li class='divider-bottom'>
+        <h4 class='faq-question'>
+          <p>Can you make TeuxDeux sync with Google Calendar?</p>
+        </h4>
+        <div class='faq-answer'>
+          <p>We are probably just gonna release (well, document) the API and hope someone who cares a lot about this will build it. Currently, we already use TeuxDeux like a calendar: &quot;3PM Meeting with Studiomates&quot;, &quot;6PM Beer Friday&quot;, that kind of thing.</p>
+        </div>
+      </li>
+      <li class='divider-bottom'>
+        <h4 class='faq-question'>
+          <p>Now that I have multiple accounts on my iPhone app, can you make it easier to access multiple accounts on the web app?</p>
+        </h4>
+        <div class='faq-answer'>
+          <p>This is tricky, and we are working on it. You&#39;ll just have to wait a bit. We are sorry.</p>
+        </div>
+      </li>
+      <li class='divider-bottom'>
+        <h4 class='faq-question'>
+          <p>Can you make links clickable?</p>
+        </h4>
+        <div class='faq-answer'>
+          <p>We now support Markdown, so yes! Try &lt;http://teuxdeux.com/&gt; or [TeuxDeux](http://teuxdeux.com/) to try it out.</p>
+        </div>
+      </li>
+      <li class='divider-bottom'>
+        <h4 class='faq-question'>
+          <p>Can I drag an item into the past and have it stay there?</p>
+        </h4>
+        <div class='faq-answer'>
+          <p>Yes. However, because TeuxDeux automatically brings your unfinished to-dos forward, the only to-dos that stay in the past are those that have been crossed off. If you want to move a to-do back in time, make sure it&#39;s crossed off.</p>
+        </div>
+      </li>
+      <li class='divider-bottom'>
+        <h4 class='faq-question'>
+          <p>Can you make it so that when I cross off a to-do, it immediately goes to the bottom?</p>
+        </h4>
+        <div class='faq-answer'>
+          <p>Any animation to do that would be fairly distracting. It would also be fairly annoying for those times you accidentally click on a to-do. Refreshing the page moves all finished to-dos to the bottom, so try this.</p>
+        </div>
+      </li>
+    </ul>
+  </section>
+  <section class='faq-question-section'>
+    <h3 class='page-subtitle' id='faq-negative-nancy-time'>Negative Nancy Time</h3>
+    <ul class='faq-question-list'>
+      <li class='divider-bottom'>
+        <h4 class='faq-question'>
+          <p>Can you let us create custom backgrounds?</p>
+        </h4>
+        <div class='faq-answer'>
+          <p>No, I think Myspace has that.</p>
+        </div>
+      </li>
+      <li class='divider-bottom'>
+        <h4 class='faq-question'>
+          <p>What about color coding to-dos in a list?</p>
+        </h4>
+        <div class='faq-answer'>
+          <p>No. We will, however, be writing a post on other ways you can organize your TeuxDeux lists using the functionality already at your disposal.</p>
+        </div>
+      </li>
+      <li class='divider-bottom'>
+        <h4 class='faq-question'>
+          <p>TeuxDeux should be cheaper.</p>
+        </h4>
+        <div class='faq-answer'>
+          <p>False.</p>
+        </div>
+      </li>
+      <li class='divider-bottom'>
+        <h4 class='faq-question'>
+          <p>Can you email me alerts for the to-dos in my TeuxDeux list?</p>
+        </h4>
+        <div class='faq-answer'>
+          <p>No, that feels pretty redundant. Overthrow your email overlord and join us in the lovely hot spring of TeuxDeux.</p>
+        </div>
+      </li>
+      <li class='divider-bottom'>
+        <h4 class='faq-question'>
+          <p>Can we have a view with 7 days instead of 5?</p>
+        </h4>
+        <div class='faq-answer'>
+          <p>Regrettably, no. We want you to watch happily as your work week ticks away. Then, when the weekend comes, soak up all the fun. Your to-dos for the weekend should generally only be things like: &quot;Drink lemonade in a hammock&quot;, &quot;Take 3 naps&quot;, and &quot;Hit the beach&quot;.</p>
+        </div>
+      </li>
+      <li class='divider-bottom'>
+        <h4 class='faq-question'>
+          <p>Can you make it so &quot;Today&quot; is always in the far left column?</p>
+        </h4>
+        <div class='faq-answer'>
+          <p>No, for pretty much the same reason as above, but enough people have asked for this that we&#39;re gonna make it a preference. Soon.</p>
+        </div>
+      </li>
+      <li class='divider-bottom'>
+        <h4 class='faq-question'>
+          <p>Can you provide a month view, so I can scan everything I need to do this month</p>
+        </h4>
+        <div class='faq-answer'>
+          <p>Whoa there, partner. Let&#39;s just take it down a notch. Don&#39;t worry about the whole month. Live for today.</p>
+        </div>
+      </li>
+      <li class='divider-bottom'>
+        <h4 class='faq-question'>
+          <p>Can I add notes to the to-dos in my TeuxDeux list?</p>
+        </h4>
+        <div class='faq-answer'>
+          <p>No, but you can use Markdown to format your to-dos. For example, you can *italicize* the note, or you can **bold** the actual to-do.</p>
+        </div>
+      </li>
+    </ul>
+  </section>
+  <section class='faq-question-section'>
+    <h3 class='page-subtitle' id='faq-iphone-app'>iPhone App</h3>
+    <ul class='faq-question-list'>
+      <li class='divider-bottom'>
+        <h4 class='faq-question'>
+          <p>How much does the iPhone app cost?</p>
+        </h4>
+        <div class='faq-answer'>
+          <p>You can get the TeuxDeux iPhone app for the bargain basement price of zero dollars.</p>
+        </div>
+      </li>
+      <li class='divider-bottom'>
+        <h4 class='faq-question'>
+          <p>Shucks. Sounds like a bargain to me.</p>
+        </h4>
+        <div class='faq-answer'>
+          <p>You are a wise and learned individual.</p>
+        </div>
+      </li>
+      <li class='divider-bottom'>
+        <h4 class='faq-question'>
+          <p>I don&#39;t like iPhones. Can you make an app for Android or Blackberry?</p>
+        </h4>
+        <div class='faq-answer'>
+          <p>TeuxDeux works great on mobile devices right now, but we might look into making a native app for your phone later.</p>
+        </div>
+      </li>
+      <li class='divider-bottom'>
+        <h4 class='faq-question'>
+          <p>Can you make my iPhone TeuxDeux badge to display the number of to-dos left for today in one of those cool red circles?</p>
+        </h4>
+        <div class='faq-answer'>
+          <p>That&#39;s not a bad idea. Good work. We&#39;ll look into it.</p>
+        </div>
+      </li>
+      <li class='divider-bottom'>
+        <h4 class='faq-question'>
+          <p>Why do you allow multiple accounts on the iPhone app?</p>
+        </h4>
+        <div class='faq-answer'>
+          <p>Because it&#39;s useful. Share a shopping list with your roommate, a to-do list with your team at work, or a honey-do list with your spouse. The possibilities are endless. Get creative!</p>
+        </div>
+      </li>
+      <li class='divider-bottom'>
+        <h4 class='faq-question'>
+          <p>How do I drag a todo from one day to another?</p>
+        </h4>
+        <div class='faq-answer'>
+          <p>This feature is coming soon! In building the new iPhone app, we were crunched to get it approved and in the App Store, but we have a nice long list of things that will make their way in.</p>
+        </div>
+      </li>
+      <li class='divider-bottom'>
+        <h4 class='faq-question'>
+          <p>How do I edit a todo?</p>
+        </h4>
+        <div class='faq-answer'>
+          <p>You mean you didn&#39;t get it perfect the first time? Worry not. Simply double tap the todo, or swipe right on it and tap the pencil icon.</p>
+        </div>
+      </li>
+      <li class='divider-bottom'>
+        <h4 class='faq-question'>
+          <p>How do I delete a todo?</p>
+        </h4>
+        <div class='faq-answer'>
+          <p>We know you didn&#39;t mean to add that todo. Your secret is safe with us. To delete it, either edit it and remove all its text, or swipe right on a done todo and tap the X.</p>
+        </div>
+      </li>
+      <li class='divider-bottom'>
+        <h4 class='faq-question'>
+          <p>I can&#39;t mark a todo done. What&#39;s up?</p>
+        </h4>
+        <div class='faq-answer'>
+          <p>Todos know when you haven&#39;t done them. Jay kay. You might be tapping too close to the edge and your tap is being registerd as a swipe. Try tapping a bit inward and you should be good to go. We&#39;ll be sure to make this work better in the next update.</p>
+        </div>
+      </li>
+    </ul>
+  </section>
+  <section class='faq-question-section'>
+    <h3 class='page-subtitle' id='faq-browser-bummers'>Browser Bummers</h3>
+    <ul class='faq-question-list'>
+      <li class='divider-bottom'>
+        <h4 class='faq-question'>
+          <p>TeuxDeux doesn&#39;t work right in my browser.</p>
+        </h4>
+        <div class='faq-answer'>
+          <p>Is your browser Internet Explorer?</p>
+        </div>
+      </li>
+      <li class='divider-bottom'>
+        <h4 class='faq-question'>
+          <p>Why, yes it is!</p>
+        </h4>
+        <div class='faq-answer'>
+          <p>Upgrade your browser. It costs zero dollars.</p>
+        </div>
+      </li>
+      <li class='divider-bottom'>
+        <h4 class='faq-question'>
+          <p>Actually, it isn&#39;t. So there, smarty pants.</p>
+        </h4>
+        <div class='faq-answer'>
+          <p>Email us, and we will fix it.</p>
+        </div>
+      </li>
+    </ul>
+  </section>
+  <section class='faq-question-section'>
+    <h3 class='page-subtitle' id='faq-email-us'>Email Us</h3>
+    <ul class='faq-question-list'>
+      <li class='divider-bottom'>
+        <h4 class='faq-question'>
+          <p>I read this entire FAQ and still need help.</p>
+        </h4>
+        <div class='faq-answer'>
+          <p>That&#39;s not a question, but please email our lovely support person Jen at <a href="mailto:jen@teuxdeux.com">jen@teuxdeux.com</a>, and she will take care of you.</p>
+        </div>
+      </li>
+    </ul>
+  </section>
+</div>
+    <footer>
+      <div class='grid-container'>
+        <ul class='footer-page-list'>
+          <li>
+            <a href='/support' tabIndex='-1'>Support</a>
+          </li>
+          <li class='secondary-button'>
+            <a href='/purpose'>Purpose</a>
+          </li>
+          <li>
+            <a href='/privacy' tabIndex='-1'>Privacy&nbsp;Policy</a>
+          </li>
+          <li>
+            <a href='/copyright' tabIndex='-1'>Copyright</a>
+          </li>
+          <li>
+            <a href='/terms' tabIndex='-1'>Terms of Use</a>
+          </li>
+        </ul>
+        <ul class='footer-info-list'>
+          <li class='footer-made-with-love'>
+            <a href='http://nytm.org/made-in-nyc/' target='_blank'>
+              Made with
+              <span class='footer-love ss-heart'></span>
+              in Brooklyn
+            </a>
+          </li>
+          <li>
+            &copy; 2013 TeuxDeux LLC
+          </li>
+        </ul>
+      </div>
+    </footer>
+    <script>
+      //<![CDATA[
+        var _gaq = _gaq || [];
+        _gaq.push(['_setAccount', 'UA-36410948-1']);
+        _gaq.push(['_trackPageview']);
+        
+        (function() {
+          var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+          ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+          var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+        })();
+      //]]>
+    </script>
+    <script src='/webfonts/ssneuxteuxdeux.js?1382399515' type='text/javascript' charset='UTF-8'></script>
+  </body>
+</html>

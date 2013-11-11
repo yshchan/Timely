@@ -1,0 +1,155 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset='UTF-8'>
+    <meta content='app-id=384291782' name='apple-itunes-app'>
+    <meta content='width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no' name='viewport'>
+    <title>
+      TeuxDeux / Purpose
+    </title>
+    <link rel='stylesheet' href='/css/site.css?1382399515' type='text/css'>
+    <meta content='IE=edge,chrome=1' http-equiv='X-UA-Compatible'>
+    <link href='/img/favicon.png?1382399515' rel='icon' type='image/png'>
+    <link href='/img/favicon.png?1382399515' rel='shortcut icon' type='image/png'>
+    <script charset='UTF-8' src='//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js' type='text/javascript'></script>
+    <script type='text/javascript'>
+      window.jQuery || document.write('<script src="/js/libs/jquery-1.9.1.min.js?1382399515" charset="UTF-8" type="text/javascript">');
+      (function() {
+      var config = {
+      kitId: 'yvf7unn',
+      scriptTimeout: 3000
+      };
+      var h=document.getElementsByTagName("html")[0];h.className+=" wf-loading";var t=setTimeout(function(){h.className=h.className.replace(/(\s|^)wf-loading(\s|$)/g," ");h.className+=" wf-inactive"},config.scriptTimeout);var tk=document.createElement("script"),d=false;tk.src='//use.typekit.net/'+config.kitId+'.js';tk.type="text/javascript";tk.async="true";tk.onload=tk.onreadystatechange=function(){var a=this.readyState;if(d||a&&a!="complete"&&a!="loaded")return;d=true;clearTimeout(t);try{Typekit.load(config)}catch(b){}};var s=document.getElementsByTagName("script")[0];s.parentNode.insertBefore(tk,s)
+      })();
+    </script>
+    <script src='/js/libs/modernizr.min.js?1382399515' type='text/javascript' charset='UTF-8'></script>
+    <script src='/js/libs/fastclick.min.js?1382399515' type='text/javascript' charset='UTF-8'></script>
+    <script type='text/javascript'>
+      if ('addEventListener' in window) {
+      window.addEventListener('load', function() { new FastClick(document.body); }, false);
+      }
+    </script>
+    <script>
+      //<![CDATA[
+        window.addEventListener('load', function() {
+          var a = document.getElementsByTagName("a");
+          for (var i = 0; i < a.length; i++)
+          {
+              a[i].onclick = function()
+              {
+                var href = this.getAttribute("href");
+                if (href && !href.match(/^http/))
+                {
+                  window.location = href;
+                  return false
+                }
+              }
+          }
+        }, false);
+      //]]>
+    </script>
+  </head>
+  <body class='site page' id='purpose'>
+    <header class='grid-container'>
+      <h1 class='logo webfont'>
+        <a href='/'>
+          <span class='teux'>Teux<span class="deux">Deux</span> <span class="tagline">a simple, designy to-do app</span></span>
+        </a>
+      </h1>
+      <nav class='top-level-nav'>
+        <ul>
+          <li class='home-button secondary-button'>
+            <a href='/'>Home</a>
+          </li>
+          <li class='home-button secondary-button'>
+            <a href='/story'>Story</a>
+          </li>
+          <li class='support-button'>
+            <a href='/support'>Support</a>
+          </li>
+          <li class='blog-button secondary-button'>
+            <a href='http://blog.teuxdeux.com'>Blog</a>
+          </li>
+          <li>
+            <a href='/login'>Log in</a>
+          </li>
+          <li>
+            <a class='signup-button' href='/signup'>
+              <strong>Sign up</strong>
+            </a>
+          </li>
+        </ul>
+      </nav>
+    </header>
+    <div class='grid-container'>
+      <h2 class='page-title webfont'>Purpose</h2>
+      <div class='narrow-page-content page-content'>
+        <p class='center'>The purpose of TeuxDeux is a modest one and one we think we have achieved.</p>
+        <p>We set out to create a to-do list that is:</p>
+        
+        <ol>
+        <li>Simple enough to compete with a piece of paper.</li>
+        
+        <li>Beautiful enough that we wouldn&#8217;t mind (and might even enjoy) looking at it all day.</li>
+        </ol>
+        
+        <p>We&#8217;re happy with the outcome, and&#8201;&#8212;&#8201;judging by the amount of folks using the app every day&#8201;&#8212;&#8201;so are a lot of you.</p>
+        
+        <p>With our core purpose under our belt, we&#8217;re turning our attention to the essential task of making TeuxDeux sustainable. This means aiming for an equally modest future. One in which we focus on upkeep (new coats of paint, replacing the carpets, etc.).</p>
+        
+        <p>The nice thing about this modest future is that if you like what you see with TeuxDeux (for example, its sparse, lovely design or intuitive personal timeline), you can take comfort in the fact that we will stay true to what it stands for today. Ten years from now&#8201;&#8212;&#8201;when we&#8217;ve finally domesticated koala bears and everyone can have one as a pet&#8201;&#8212;&#8201;TeuxDeux will still be chugging along, making your day-to-day just a little bit brighter.</p>
+        
+        <p>On that note, why the heck does every app need to change all the time? Can&#8217;t something on the Web be more or less finished?</p>
+        
+        <p>We think so.</p>
+      </div>
+    </div>
+    <footer>
+      <div class='grid-container'>
+        <ul class='footer-page-list'>
+          <li>
+            <a href='/support' tabIndex='-1'>Support</a>
+          </li>
+          <li class='secondary-button'>
+            <a href='/purpose'>Purpose</a>
+          </li>
+          <li>
+            <a href='/privacy' tabIndex='-1'>Privacy&nbsp;Policy</a>
+          </li>
+          <li>
+            <a href='/copyright' tabIndex='-1'>Copyright</a>
+          </li>
+          <li>
+            <a href='/terms' tabIndex='-1'>Terms of Use</a>
+          </li>
+        </ul>
+        <ul class='footer-info-list'>
+          <li class='footer-made-with-love'>
+            <a href='http://nytm.org/made-in-nyc/' target='_blank'>
+              Made with
+              <span class='footer-love ss-heart'></span>
+              in Brooklyn
+            </a>
+          </li>
+          <li>
+            &copy; 2013 TeuxDeux LLC
+          </li>
+        </ul>
+      </div>
+    </footer>
+    <script>
+      //<![CDATA[
+        var _gaq = _gaq || [];
+        _gaq.push(['_setAccount', 'UA-36410948-1']);
+        _gaq.push(['_trackPageview']);
+        
+        (function() {
+          var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+          ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+          var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+        })();
+      //]]>
+    </script>
+    <script src='/webfonts/ssneuxteuxdeux.js?1382399515' type='text/javascript' charset='UTF-8'></script>
+  </body>
+</html>
