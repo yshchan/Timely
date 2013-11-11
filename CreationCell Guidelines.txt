@@ -1,0 +1,7 @@
+1. Create a self sizing UITextView in UITableViewCell as the very first cell of the tableview
+2. Set the dotted border line from TeuxDeux
+3. When you are done writing the cell is set to that task and a new creation cell is created on top of that.
+
+References:
+http://www.howlin-interactive.com/2013/01/creating-a-self-sizing-uitextview-within-a-uitableviewcell-in-ios-6/
+https://teuxdeux.com/img/homepage-iphone.jpg
